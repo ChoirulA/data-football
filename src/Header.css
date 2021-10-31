@@ -1,0 +1,47 @@
+.header{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.header2 {
+    background-color: #282c34;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+.ig-size{
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+}
+
+.font-a{
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.link-a{
+    color: aqua;
+    font-size: 30px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.body2 {
+    display: flex;
+}
+
+.row-content-position {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.App-link {
+    color:black;
+    margin-bottom: 20px;
+  }
